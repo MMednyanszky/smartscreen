@@ -24,7 +24,7 @@ A lightweight, modular, and easy-to-use Weather Station and Clock framework for 
 | **SDA** | GPIO 21 |
 
 ## 🚀 Installation
-1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/esp32-weather-os.git`
+1. Clone this repository: `git clone https://github.com/MMednyanszky/smartscreen.git`
 2. Open `ESP32_Weather_OS.ino` in Arduino IDE.
 3. Install the required libraries via Library Manager:
    - `U8g2`
